@@ -1,0 +1,346 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "title": "HoChiMinh City Hop On – Hop Off Bus (Valid 24 hours)",
+      "title_vn": "Vòng quanh TP. Hồ Chí Minh 24h",
+      "tour_type": "Special Tour",
+      "price": "$22 (528,000 VND)",
+      "duration": "24 hours",
+      "description": "Tham gia vào chuyến phiêu lưu vòng quanh thành phố với dịch vụ xe buýt đỏ mui trần duy nhất của Hồ Chí Minh trong 24h kể từ khi lên xe.",
+      "language": "Vietnamese",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/hcm-citysightseeing-tour"
+    },
+    {
+      "id": 2,
+      "title": "3 Days Tour: HoChiMinh City + Mekong Delta + CuChi Tunnels",
+      "title_vn": "03 Ngày Tour : TP.HCM + Mekong + Củ Chi",
+      "tour_type": "COMBO TOUR",
+      "price": "$81 (1,944,000 VND)",
+      "duration": "3 days",
+      "rating": "9/10",
+      "description": "Day 1 + Day 2: Ticket for 48 hours Ho Chi Minh City bus tour audio guide with 07 languages. Day 3: Full day Mekong Delta Tour. Day 4: Half day Cu Chi Tunnels Tour.",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/3-days-city-tour-mekong-cu-chi-tunnels"
+    },
+    {
+      "id": 3,
+      "title": "2 Days Tour : HoChiMinh City + CuChi Tunnels",
+      "title_vn": "2 Ngày Tour thành phố HCM+Tour Củ Chi",
+      "tour_type": "COMBO TOUR",
+      "price": "$47 (1,128,000 VND)",
+      "duration": "2 days",
+      "rating": "9/10",
+      "description": "Day 1: Valid ticket for 24-hour Hop On Hop Off City Tour: audio guide with 08 languages Day 2: Half day Cu Chi Tunnels Tour. 8h00-14h00",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/2-days-city-tour-cu-chi-tunnels"
+    },
+    {
+      "id": 4,
+      "title": "4Hours Ha Noi City Tour: Hop-On, Hop-Off Bus",
+      "title_vn": "Tham quan Hà Nội trong 4 giờ",
+      "tour_type": "Special Tour",
+      "price": "$13 (312,000 VND)",
+      "duration": "4 hours",
+      "description": "Enjoy a unique experience to Hanoi with special combo including Hanoi City Tour Hop On Hop Off 2-hour valid ticket. Hanoi City tour Hop on – Hop off has 15 stops going through",
+      "city": "Hanoi",
+      "url": "https://hopon-hopoff.vn/tours/hanoi-city-tour-hop-on-hop-off-2"
+    },
+    {
+      "id": 5,
+      "title": "Hanoi City Tour Hop-On, Hop-Off (24-hour ticket)",
+      "title_vn": "Tham quan vòng quanh Hà Nội (Vé 24 giờ)",
+      "tour_type": "Special Tour",
+      "price": "$20 (480,000 VND)",
+      "duration": "1 day",
+      "rating": "10/10",
+      "description": "Tham quan 1 vòng Hà Nội với 14 điểm dừng và 20 điểm du lịch nổi tiếng nhất . Không hạn chế lên xuống. Vé 24 giờ",
+      "language": "Vietnamese",
+      "city": "Hanoi",
+      "url": "https://hopon-hopoff.vn/tours/hanoi-city-tour-hop-on-hop-off"
+    },
+    {
+      "id": 6,
+      "title": "HaNoi City Tour one round trip (60mins)",
+      "title_vn": "1 vòng quanh Hà Nội",
+      "tour_type": "NEW",
+      "price": "$7 (168,000 VND)",
+      "duration": "90 mins",
+      "rating": "9/10",
+      "description": "One around HaNoi city tours departure operation time at 08h00 - 20h30, audio 8 languages. Valid 60 mins. Free wifi.",
+      "city": "Hanoi",
+      "url": "https://hopon-hopoff.vn/tours/ha-noi-city-tour-by-night-2"
+    },
+    {
+      "id": 7,
+      "title": "SAIGON–CHO LON CITY TOUR HOP ON HOP OFF TOUR 24H",
+      "title_vn": "24 GIỜ THAM QUAN SÀI GÒN – CHỢ LỚN HOP ON HOP OFF",
+      "tour_type": "Special Tour",
+      "price": "$22 (528,000 VND)",
+      "duration": "24 hours",
+      "description": "Saigon – Cho Lon City tour Hop on Hop off - Chinatown is a flexible and convenient sightseeing tour that combines scenic views from an open-top double-decker bus and visits to many prominent attractions",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/saigon-cho-lon-city-tour-chinatown-hop-on-hop-off-tour-24-hour"
+    },
+    {
+      "id": 8,
+      "title": "SAIGON–CHO LON CITY TOUR HOP ON HOP OFF TOUR 4H",
+      "title_vn": "SAIGON –CHO LON CITY TOUR HOP ON HOP OFF TOUR 4H",
+      "tour_type": "Tour",
+      "price": "$18 (432,000 VND)",
+      "duration": "4 hours",
+      "description": "Saigon – Cho Lon City tour Hop on Hop off - Chinatown is a flexible and convenient sightseeing tour that combines scenic views from an open-top double-decker bus and visits to many prominent attractions",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/saigon-cho-lon-city-tour-chinatown-hop-on-hop-off-tour-4-hour"
+    },
+    {
+      "id": 9,
+      "title": "SAIGON – CHO LON CITY TOUR (1 ROUND)",
+      "title_vn": "1 VÒNG SÀI GÒN – CHỢ LỚN CITY TOUR HOP ON HOP OFF",
+      "tour_type": "Tour",
+      "price": "$9 (216,000 VND)",
+      "description": "Saigon – Cho Lon City tour Hop on Hop off - Chinatown is a flexible and convenient sightseeing tour that combines scenic views from an open-top double-decker bus and visits to many prominent attractions",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/tieng-viet-sai-gon-cho-lon-city-tour-hop-on-hop-off"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Cu Chi Tunnels & Mekong Delta Full Day",
+      "title_vn": "Tour Cao Cấp Địa Đạo Củ Chi & Đồng Bằng Sông Cửu Long Cả Ngày",
+      "tour_type": "Tour",
+      "price": "$57 (1,368,000 VND)",
+      "duration": "Full day",
+      "description": "This tour is perfect for those who are interested in the history of the Vietnam War or are looking for a day trip not too far away from Ho Chi Minh city.",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/luxury-cu-chi-tunnels-mekong-delta-full-day"
+    },
+    {
+      "id": 11,
+      "title": "MIDNIGHT TOUR ON DOUBLE-DECKER BUS IN HO CHI MINH CITY",
+      "title_vn": "TOUR XE BUÝT \"KHÔNG NGỦ Ở SÀI GÒN\"",
+      "tour_type": "Tour",
+      "price": "$9 (216,000 VND)",
+      "duration": "1 hour",
+      "description": "Experience Ho Chi Minh City's captivating charm at midnight or early morning with our one-hour open-top double-decker bus tour. Travelers will explore Ho Chi Minh city late at night on a double-decker",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/midnight-tour-on-double-decker-bus-in-ho-chi-minh-city-2"
+    },
+    {
+      "id": 12,
+      "title": "MIDNIGHT TOUR ON DOUBLE-DECKER BUS IN HO CHI MINH CITY",
+      "title_vn": "TOUR XE BUÝT \"KHÔNG NGỦ Ở SÀI GÒN\"",
+      "tour_type": "Tour",
+      "price": "$7 (168,000 VND)",
+      "duration": "1 hour",
+      "description": "Experience Ho Chi Minh City's captivating charm at midnight or early morning with our one-hour open-top double-decker bus tour. Travelers will explore Ho Chi Minh city late at night on a double-decker",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/midnight-tour-on-double-decker-bus-in-ho-chi-minh-city"
+    },
+    {
+      "id": 13,
+      "title": "COMBO TOUR: 2 DAYS: 24H HO CHI MINH CITY HOP ON-HOP OFF – MEKONG DELTA",
+      "title_vn": "COMBO TOUR: 2 NGÀY: TOUR 24H THÀNH PHỐ HỒ CHÍ MINH HOP ON-HOP OFF – ĐỒNG BẰNG SÔNG CỬU LONG",
+      "tour_type": "COMBO TOUR",
+      "price": "$57 (1,368,000 VND)",
+      "duration": "2 days",
+      "description": "Discover Ho Chi Minh City on double-decker bus Hop on – Hop off at your own pace - Visit Independence Palace - Experience full day Mekong Delta Tour",
+      "language": "Vietnamese",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/combo-tour-2-days-24h-ho-chi-minh-city-tour-hop-on-hop-off-mekong-delta"
+    },
+    {
+      "id": 14,
+      "title": "China Tour: Hong Kong – Guangzhou – Shenzhen – Foshan – Zhuhai – Macau",
+      "title_vn": "Tour Trung Quốc: Hồng Kông – Quảng Châu – Thâm Quyến – Phật Sơn – Chu Hải – Ma Cao",
+      "tour_type": "Tour",
+      "price": "$427 (10,248,000 VND)",
+      "duration": "7 days",
+      "description": "Thời gian: 07 ngày / 07đêm Khởi hành: Hằng tuần, xoay vòng quanh năm. Gía trọn hành trình (7 ngày 7 đêm) : 11,409,000 vnd/khách.",
+      "language": "Vietnamese",
+      "country": "China",
+      "url": "https://hopon-hopoff.vn/tours/china-tour-hong-kong-guangzhou-shenzhen-foshan-zhuhai-macau"
+    },
+    {
+      "id": 15,
+      "title": "Europe Tour: Denmark – Norwegian – Sweden",
+      "title_vn": "Tour Châu Âu: Đan Mạch – Na Uy – Thuỵ Điển",
+      "tour_type": "Tour",
+      "price": "$889 (21,336,000 VND)",
+      "duration": "7 days",
+      "description": "Thời gian: 07 ngày / 07đêm. Khởi hành: Hằng tuần, xoay vòng quanh năm. Gía trọn hành trình (7 ngày 7 đêm) : 20,202,000 vnd/khách.",
+      "language": "Vietnamese",
+      "region": "Europe",
+      "url": "https://hopon-hopoff.vn/tours/denmark-norwegian-sweden"
+    },
+    {
+      "id": 16,
+      "title": "Europe Tour: England & Scotland",
+      "title_vn": "Tour Châu Âu: Vương Quốc Anh & Scotland",
+      "tour_type": "Tour",
+      "price": "$889 (21,336,000 VND)",
+      "duration": "7 days",
+      "description": "Thời gian: 07 ngày / 07đêm. Khởi hành: Hằng tuần, xoay vòng quanh năm. Gía gốc trọn hành trình (7 ngày 7 đêm) : 20,202,000 vnd/khách.",
+      "language": "Vietnamese",
+      "region": "Europe",
+      "url": "https://hopon-hopoff.vn/tours/england-scotland"
+    },
+    {
+      "id": 17,
+      "title": "Europe Tour: Spain – Portugal",
+      "title_vn": "Tour Châu Âu: Tây Ban Nha – Bồ Đào Nha",
+      "tour_type": "Tour",
+      "price": "$889 (21,336,000 VND)",
+      "duration": "7 days",
+      "description": "Thời gian: 07 ngày / 07đêm. Khởi hành: Hằng tuần, xoay vòng quanh năm. Gía trọn hành trình (7 ngày 7 đêm) : 20,202,000 vnd/khách.",
+      "language": "Vietnamese",
+      "region": "Europe",
+      "url": "https://hopon-hopoff.vn/tours/spain-sportugal"
+    },
+    {
+      "id": 18,
+      "title": "Europe Tour: Germany – Czech – Slovakia – Hungary – Austria – Switzerland",
+      "title_vn": "Tour du lịch Châu Âu: Đức – CH Séc – Slovakia – Hungary – Áo – Thuỵ Sĩ",
+      "tour_type": "Special Tour",
+      "price": "$889 (21,336,000 VND)",
+      "duration": "7 days",
+      "description": "Chương trình Super Sale >>> Mua 1 tặng 1. Nâng cấp lên khách sạn 4* cho 03 đêm trong 07 đêm khách sạn. Áp dụng: Đặt vé trước ngày 16/04/2023. Tham gia tour trước ngày 31/08/2023.",
+      "language": "Vietnamese",
+      "region": "Europe",
+      "special_offer": true,
+      "url": "https://hopon-hopoff.vn/tours/germany-czech-slovakia-hungary-austria-switzerland"
+    },
+    {
+      "id": 19,
+      "title": "Europe Tour: Germany – Netherlands – Brussels – France – Luxembourg",
+      "title_vn": "Tour Châu Âu: Đức – Hà Lan – Bỉ – Pháp – Luxembourg",
+      "tour_type": "Special Tour",
+      "price": "$889 (21,336,000 VND)",
+      "duration": "7 days",
+      "description": "Thời gian: 07 ngày / 07đêm Khởi hành: Hằng tuần, xoay vòng quanh năm. Gía trọn hành trình (7 ngày 7 đêm): 20,202,000 vnd/khách.",
+      "language": "Vietnamese",
+      "region": "Europe",
+      "url": "https://hopon-hopoff.vn/tours/germay-netherlands-brussels-france-luxembourg"
+    },
+    {
+      "id": 20,
+      "title": "Saigon City Tour + Dinner on Ben Nghe cruise",
+      "title_vn": "Saigon City Tour + Ăn tối trên tàu Bến Nghé",
+      "tour_type": "Tour",
+      "price": "$31 (744,000 VND)",
+      "description": "City Tour BUS + Dinner on cruise. Sightseeing Saigon on a double decker bus. Dinner is served on the cruise and see the illuminated landscapes along the Saigon River. Enjoy a delicious traditional Vietnamese",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/tieng-viet-city-tour-ben-nghe-ship-tour-on-saigon-river"
+    },
+    {
+      "id": 21,
+      "title": "4h Ho Chi Minh city tour Hop on – Hop off",
+      "title_vn": "4h Tour thành phố Hồ Chí Minh Hop on – Hop off",
+      "tour_type": "NEW",
+      "price": "$15 (360,000 VND)",
+      "duration": "4 hours",
+      "description": "Discovering Ho Chi Minh City on open top double decker bus through many streets and the most attractive places. With the ticket 4h, you can get on get off a bus to visit the attractive places",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/4h-ho-chi-minh-city-tour-hop-on-hop-off"
+    },
+    {
+      "id": 22,
+      "title": "1h trip around Ho Chi Minh City (Saigon)",
+      "title_vn": "1 vòng quanh thành phố Hồ Chí Minh (Sài Gòn)",
+      "tour_type": "NEW",
+      "price": "$7 (168,000 VND)",
+      "duration": "1 hour",
+      "description": "1 round trip last for 45 minutes cover all the best of center of Ho Chi Minh City on a double decker bus. Explore the city on open-top buses with free WiFi on-board. Audio commentary available",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/night-tour-1-round-trip"
+    },
+    {
+      "id": 23,
+      "title": "Cu Chi Tunnels (GUIDE INCLUDED)",
+      "title_vn": "Địa Đạo Củ Chi (Có Hướng Dẫn Viên)",
+      "tour_type": "NEW",
+      "price": "$24 (576,000 VND)",
+      "description": "Cu Chi Tunnels is a legendary tunnel system with more than 220 km of tunnels, a must-see attraction for both Vietnamese and foreign tourists who are interested in the history of the Vietnam War",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/night-tour-1-round-trip-2"
+    },
+    {
+      "id": 24,
+      "title": "1h around Saigon +Saigon Skydeck",
+      "title_vn": "1 Vòng quanh Sài Gòn trên xe buýt 2 tầng + SàiGòn Skydeck",
+      "tour_type": "Tour",
+      "price": "$17 (408,000 VND)",
+      "duration": "1 hour",
+      "description": "This is a special Ho Chi Minh City tour Hop On-Hop Off Vietnam combining panoramic views from the 49th floor Skydeck tower of Bitexco building. 1 round trip last for 45 minutes cover all",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/tieng-viet-1-vong-quanh-sai-gon-tren-xe-buyt-2-tang-saigon-skydeck"
+    },
+    {
+      "id": 25,
+      "title": "1 trip around Saigon and Dinner on Cruise",
+      "title_vn": "Saigon City Tour + Ăn tối trên tàu Indochina Queen",
+      "tour_type": "COMBO TOUR",
+      "price": "$35 (840,000 VND)",
+      "description": "Sightseeing Saigon on a double decker bus. Dinner is served on the cruise and see the illuminated landscapes along the Saigon River. Enjoy a delicious traditional Vietnamese menu. Live music",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/1-trip-around-saigon-and-dinner-on-cruise"
+    },
+    {
+      "id": 26,
+      "title": "Independence Palace + Ho Chi Minh City 1 round trip",
+      "title_vn": "1 vòng tham quan thành phố + Dinh Độc Lập",
+      "tour_type": "NEW",
+      "price": "$9 (216,000 VND)",
+      "description": "Explore Independence Palace where Southern government operated in wartime. 1 round trip last for 45 minutes cover all the best of center of Ho Chi Minh City",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/independence-palace-hochiminh-city-1-round-trip"
+    },
+    {
+      "id": 27,
+      "title": "Mekong Delta Tour",
+      "title_vn": "Tour Đồng Bằng Sông Cửu Long",
+      "tour_type": "COMBO TOUR",
+      "price": "$35 (840,000 VND)",
+      "description": "There are pick up and drop off services at Central Post office – Notre Dame Cathedral- address: 02 Cong Xa Paris, District 1. Mekong Tour HCM city – My Tho – Ben Tre – HCM",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/mekong-delta-tour-full-day"
+    },
+    {
+      "id": 28,
+      "title": "SG – Ben Tre – Can Tho – Floating Market Tour",
+      "title_vn": "SG-BEN TRE – CAN THO – FLOATING MARKET",
+      "tour_type": "Special Tour",
+      "price": "$106 (2,544,000 VND)",
+      "duration": "2 days",
+      "rating": "9/10",
+      "description": "Day 1: Ho Chi Minh City - My Tho - Ben Tre - Can Tho Day 2: Cai Rang Floating Market - Ho Chi Minh City. Guide: English.",
+      "city": "Ho Chi Minh City",
+      "url": "https://hopon-hopoff.vn/tours/sg-ben-tre-can-tho-floating-market"
+    }
+  ],
+  "summary": {
+    "total_tours": 28,
+    "price_range": {
+      "min": "$7 (168,000 VND)",
+      "max": "$889 (21,336,000 VND)"
+    },
+    "cities": [
+      "Ho Chi Minh City",
+      "Hanoi"
+    ],
+    "regions": [
+      "Europe",
+      "China"
+    ],
+    "tour_types": [
+      "Special Tour",
+      "COMBO TOUR",
+      "NEW",
+      "Tour"
+    ],
+    "duration_range": [
+      "1 hour",
+      "7 days"
+    ]
+  }
+}
